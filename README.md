@@ -3,5 +3,5 @@
 2. 사업자 정보 조회
 
 참고
-https://www.data.go.kr/
-https://www.hometax.go.kr/
+- https://www.data.go.kr/
+- https://www.hometax.go.kr/
